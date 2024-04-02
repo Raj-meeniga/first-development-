@@ -1,36 +1,10 @@
-ol{
-    background-color: aqua;
-    color: black;
-    border: 2px solid;
-    margin: 20px;
-    padding: 28px;
+table{
+    width: 100%;
 }
 
-ul{
-    background-color: rgb(14, 228, 78);
-    color: black;
-    border: 2px solid;
-    margin: 20px;
-    padding: 35px;
-}
-.demo3{
-    color: blue;
-    background-color: black;
-}
-
-.demo4{
-    color: rgb(221, 8, 61);
-    background-color: yellow;
-}
-
-.demo5{
-    color: pink;
-    background-color: brown;
-}
-
-.demo6{
-    color: red;
-    background-color: blueviolet;
-    border: 2px solid;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+table, th, td {
+    border:5px solid rgb(14, 204, 238); 
+    padding: 5px;
+    color: rgb(9, 1, 17);
+    background-color: rgb(236, 230, 243);
+  }
